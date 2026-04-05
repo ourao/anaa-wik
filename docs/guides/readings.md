@@ -7,17 +7,6 @@ Alcoholics Anonymous is a fellowship of people who share their experience, stren
 The only requirement for membership is a desire to stop drinking. There are no dues or fees for A.A. membership; we are self-supporting through our own contributions. A.A. is not allied with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics to achieve sobriety.
 
 
-## Singleness Of Purpose
-
-CLOSED MEETING
-
-This is a closed meeting of Alcoholics Anonymous. In support of A.A.’s singleness of purpose, attendance at closed meetings is limited to persons who have a desire to stop drinking. If you think you have a problem with alcohol, you are welcome to attend this meeting. We ask that when discussing our problems, we confine ourselves to those problems as they relate to alcoholism.
-
-OPEN MEETING
-
-This is an open meeting of Alcoholics Anonymous. We are glad you are all here — especially newcomers. In keeping with our singleness of purpose and our Third Tradition which states that “The only requirement for A.A. membership is a desire to stop drinking,” we ask that all who participate confine their discussion to their problems with alcohol.
-
-
 ## Chapter 5 How It Works
 
 > BB p58
