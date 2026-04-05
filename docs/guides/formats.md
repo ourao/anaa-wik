@@ -1,5 +1,8 @@
 # Meeting Formats
 
+
+## Conscience Introductory Statements
+
 - YP attached meeting?  
 - Non open non closed?  
 - 1 hour meeting time?  
@@ -10,7 +13,6 @@
 - Sensitivity to sharing and language?  
 
 
-## Introductory Statements
 
 Suggested announcements for the meeting secretary, based on their judgement and discretion.  
 
@@ -19,7 +21,7 @@ Suggested announcements for the meeting secretary, based on their judgement and 
 
 ## Possible Reading Agendas  
 
-Some suggested reading formats  
+A suggested reading format  
 
 1. MEETING OPENING  
 Introduction  
