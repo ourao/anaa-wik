@@ -1,21 +1,13 @@
 # Meeting Formats
 
-YP attached meeting  
-
-Time based suggestions.  
-> 1 hour meeting time.  
- 5 minutes per share.  
- A notification plague for time.  
-
-Meeting setup  
-> Keeping the door closed with the sign on the outside.  
-
-Formats  
-> Speaker meeting versus open floor depending on attendance and chair.  
-
-Sensitivity to sharing and language.  
-> Suggested statement on the use of foul language: "We ask you to refrain from cursing. It can cause offence but its absence rarely does."  
-
+- YP attached meeting?  
+- Non open non closed?  
+- 1 hour meeting time?  
+- 5 minutes per share?  
+- A notification plague for time?  
+- Keeping the door closed with the sign on the outside?  
+- Speaker meeting versus open floor depending on attendance and chair?  
+- Sensitivity to sharing and language?  
 
 
 ## Introductory Statements
@@ -35,18 +27,18 @@ Preamble
 
 2. GROUP CONSCIENCE REMINDERS  
 Meeting related conscience announcements  
-Singleness of purpose (Closed/Open)  
 
-3. MEETING SHARES  
+3. MEETING READINGS  
 How it works  (BB. Chapter 5)  
-Daily reflections  
-A chosen AA reading  
-Safety card  
+Introductory reading  
+
+4. SHARING / STUDY
 Speakers / Sharing  
+Tradition 7 pass the cup  
 
 4. MEETING CLOSING  
 Any AA announcements  
 Twelve promises  
-Tradition 7 and 12. Anonymity slogan  
+Tradition 12 and anonymity slogan  
 Serenity and Our Father prayers  
 
